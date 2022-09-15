@@ -1,0 +1,13 @@
+Hi 
+welcome to my cloud api calculator,
+this api will take 2 numbers  and will return the sum of their addition ,
+the http method used to access this api is GET and you can call it  by 2 main methods:
+
+
+1) curl  -X GET 'https://qt912bb7of.execute-api.us-east-1.amazonaws.com/test/calculator?num1=x&num2=y'
+# as you can see at the end of the url you have ? num1=x & num2=y  - those are the 2 numbers you need to insert in order for the api 
+to proccess your request  ( use linux command line / terminal )
+
+
+2) via the browser you can browse to this url : 'https://qt912bb7of.execute-api.us-east-1.amazonaws.com/test/calculator?num1=x&num2=y'
+and edit the url as you like - insert the 2 numbers manually
