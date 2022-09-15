@@ -16,6 +16,8 @@ and edit the url as you like - insert the 2 numbers manually
 finally : 
 
 the URL to invoke the api is :  https://qt912bb7of.execute-api.us-east-1.amazonaws.com/test/calculator
+
+BY DEFAULT the sns email is my private email address -  for testing you will have to edit the lambda function arn  to match with your topic.
  
 
 thanks 
